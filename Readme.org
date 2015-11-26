@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:47.528566
-#+TITLE: 評金剛錍
-#+PROPERTY: CBETA_ID X58n1018
-#+PROPERTY: ID KR6e0137
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1018
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 評金剛錍 / master
+#+DATE: 2015-11-26 14:21:00.904963
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0137_X_000-0580c>
+* 目次
+* 卷
+** [[file:KR6e0137_001.txt][評金剛錍 1]]
